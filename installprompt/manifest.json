@@ -1,0 +1,13 @@
+{
+    "short_name": "Hello",
+    "name": "Hello everyone",
+    "icons": [
+      {
+        "src": "icons/lightbulb.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone"
+  }
